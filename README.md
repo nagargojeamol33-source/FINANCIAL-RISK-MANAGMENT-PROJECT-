@@ -6,6 +6,8 @@ and identify cost-saving opportunities from raw financial datasets
 Standardized currency formats, handled missing values, and performed data profiling to ensure 100% data integrity.
 # Data Modeling: 
 Established a Star Schema with Fact and Dimension tables to optimize report performance.
+# Python_Statistical_Analysis 
+predictive analisis by python libraries.
 # Analysis (DAX): 
 Created advanced measures for YoY Growth, Profit Margins, and Budget vs. Actual Variance using Time Intelligence functions.
 # Visualization: 
