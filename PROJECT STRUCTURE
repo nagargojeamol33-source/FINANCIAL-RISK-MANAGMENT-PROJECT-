@@ -10,11 +10,11 @@ Finance_Data_Analyst_Project
 │
 ├── 03_Analysis_DAX/
 │   ├── Measures_Library.txt      (All DAX formulas: YoY, Margin%)
-│   └── Model_Schema.png          (Screenshot of Star Schema)
-│
+│   └── Model_Schema.png          
+
 ├── 04_Power_BI_Development/
 │   ├── Finance_Dashboard.pbix    (Main Power BI file)
-│   └── Dashboard_Screenshots/    (Images for portfolio/resume)
+│   └── Dashboard_Screenshots/    
 │
 └── 05_Final_Insights/
     └── Executive_Summary.pdf     (Key business findings & PPT)
