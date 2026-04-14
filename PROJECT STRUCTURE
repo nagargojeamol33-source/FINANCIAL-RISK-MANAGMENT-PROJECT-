@@ -1,0 +1,20 @@
+Finance_Data_Analyst_Project
+│
+├── 01_Data/
+│   ├── Raw_Data/                 (Original Excel files)
+│   └── Processed_Data/           (Cleaned data/SQL exports)
+│
+├── 02_Data_Transformation/
+│   ├── SQL_Scripts/              (Queries for data extraction)
+│   └── Power_Query_Steps.txt   (M-code snippets for cleaning)
+│
+├── 03_Analysis_DAX/
+│   ├── Measures_Library.txt      (All DAX formulas: YoY, Margin%)
+│   └── Model_Schema.png          (Screenshot of Star Schema)
+│
+├── 04_Power_BI_Development/
+│   ├── Finance_Dashboard.pbix    (Main Power BI file)
+│   └── Dashboard_Screenshots/    (Images for portfolio/resume)
+│
+└── 05_Final_Insights/
+    └── Executive_Summary.pdf     (Key business findings & PPT)
