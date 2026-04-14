@@ -7,15 +7,15 @@ Finance_Data_Analyst_Project
 ├── 02_Data_Transformation/
 │   ├── SQL_Scripts/              (Queries for data extraction)
 │   └── Power_Query_Steps.txt   (M-code snippets for cleaning)
-│   03_Python_Statistical_Analysis/ 
+│   04_Python_Statistical_Analysis/ 
     └── Outlier_Detection.py       
-├── 04_Analysis_DAX/
+├── 05_Analysis_DAX/
 │   ├── Measures_Library.txt      (All DAX formulas: YoY, Margin%)
 │   └── Model_Schema.png          
 
-├── 05_Power_BI_Development/
+├── 06_Power_BI_Development/
 │   ├── Finance_Dashboard.pbix    (Main Power BI file)
 │   └── Dashboard_Screenshots/    
 │
-└── 06_Final_Insights/
+└── 07Final_Insights/
     └── Executive_Summary.pdf     (Key business findings & PPT)
